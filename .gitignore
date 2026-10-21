@@ -48,3 +48,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Project data and model fits (never commit household data)
+data/
+fits/
+*.rds
